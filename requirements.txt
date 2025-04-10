@@ -1,15 +1,2 @@
-django
-djangorestframework
-python-dotenv
-openai
-langchain
-langchain_ollama
-ollama
-streamlit
-pandas
-requests
-base64
-openpyxl
-time
-ssl
-certifi
+python-docx
+google-generativeai
