@@ -37,7 +37,7 @@ def create_docx(question: str, answer: str) -> bytes:
 # -------------------- Streamlit UI --------------------
 st.set_page_config(page_title="Math Problem Solver", page_icon="🧮")
 
-st.title("🧮 Math Problem Solver for Students")
+st.title("🧮 Math Problem Solver")
 st.markdown("Enter any math question and get a clear step-by-step explanation.")
 
 question = st.text_area("Type your math question here:")
